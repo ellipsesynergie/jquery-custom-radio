@@ -1,0 +1,13 @@
+{
+    "name": "jquery-custom-radio",
+    "repo": "ellipsesynergie/jquery-custom-radio",
+    "description": "A simple, lightweight jQuery plugin to create custom radio button (compatible with Twitter Bootstrap)",
+    "version": "0.0.1",
+    "keywords": ["jquery", "plugin", "radio"],
+    "dependencies": {
+        "jquery/jquery": "*"
+    },
+    "scripts": ["lib/radio.js"],
+    "styles": [],
+    "license": "MIT"
+}
