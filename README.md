@@ -15,6 +15,7 @@ First of all, include Google API and jQuery
 ```html
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>window.jQuery || document.write('<script src="path/to/jquery/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/path/to/radio.min.js"></script>
 ```
 
 Then, create element that will contain the piechart
